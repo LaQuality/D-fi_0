@@ -8,6 +8,10 @@
   list-style: none;
 }
 
+html,body{
+  height:100%;
+}
+
 /* partie visible lors de l'ouverture */
 
 .principal {
